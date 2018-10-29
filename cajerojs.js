@@ -1,3 +1,5 @@
+modificacion
+
 var v_dinero_disp = [];
     v_dinero_disp["50"] = 3;
     v_dinero_disp["20"] = 3;
